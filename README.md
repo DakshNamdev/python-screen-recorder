@@ -15,7 +15,7 @@ Before running the script, ensure you have Python 3.x installed.
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/DakshNamdev/python-screen-recorder.git](https://github.com/DakshNamdev/python-screen-recorder.git)
+git clone https://github.com/DakshNamdev/python-screen-recorder.git
 cd screen-recorder
 ```
 
